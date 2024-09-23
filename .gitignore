@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][rR]m/
+[Aa][rR]m64/
+[Bb]in/
+[Oo]bj/
+*.ncb
+*.sdf
+*.opensdf
+
+# User-specific files
+*.userprefs
+*.sln.ide
+
+# macOS specific files
+*.DS_Store
+
+# Rider specific files
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Visual Studio Code
+.vscode/
+
+# MAUI specific
+*.apk
+*.aab
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.bundle
+
+# Other
+*.log
+*.tlog
